@@ -175,7 +175,7 @@ public class HumphlettWordSearchTrie implements WordSearchGame {
    }
     
    /**
-    * Computes the cummulative score for the scorable words in the given set.
+    * Computes the cumulative score for the scorable words in the given set.
     * To be scorable, a word must (1) have at least the minimum number of
     * characters, (2) be in the lexicon, and (3) be on the board. Each
     * scorable word is awarded one point for the minimum number of characters, 
@@ -184,7 +184,7 @@ public class HumphlettWordSearchTrie implements WordSearchGame {
     * @param words The set of words that are to be scored
     * @param minimumWordLength The minimum number of characters required per
     *    word
-    * @return the cummulative score of all scorable words in the set
+    * @return the cumulative score of all scorable words in the set
     * @throws IllegalArgumentException if minimumWordLength < 1
     * @throws IllegalStateException if loadLexicon has not been called
     */  
