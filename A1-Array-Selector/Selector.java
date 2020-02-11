@@ -166,13 +166,13 @@ public final class Selector {
       if (a == null || a.length == 0) {
          throw new IllegalArgumentException("Array must not be empty.");
       }
-      int min = 99;
+      int min = Integer.MAX_VALUE;
       for(int test : a) {
          if (test >= key && test < min) {
             min = test;
          }
       }
-      if (min == 99) {
+      if (min == Integer.MAX_VALUE) {
          throw new IllegalArgumentException("No acceptable i value");
       }
       return min;
@@ -190,13 +190,13 @@ public final class Selector {
       if (a == null || a.length == 0) {
          throw new IllegalArgumentException("Array must not be empty.");
       }
-      int max = -99;
+      int max = Integer.MIN_VALUE;
       for(int test : a) {
          if (test <= key && test > max) {
             max = test;
          }
       }
-      if (max == -99) {
+      if (max == Integer.MIN_VALUE) {
          throw new IllegalArgumentException("No acceptable i value");
       }
       return max;
