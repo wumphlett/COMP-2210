@@ -1,3 +1,3 @@
 # COMP 2210
 COMP 2210 Assignments  
-Fundamentals of Computing II / Data Structures and Algorithms
+Fundamentals of Computing II / Intro to Data Structures and Algorithms
