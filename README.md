@@ -20,10 +20,10 @@ Fundamentals of Computing II / Intro to Data Structures and Algorithms
    16.00  ┤            │╰╯│  │  ││ │       │ │
    12.80  ┤          ╭╮│  │╭╮│  ╰╯ │       │ │
     9.60  ┤          │││  ││││     │╭╮     │ │
-    6.40  ┤  ╭─╮     │││  ││││     │││   ╭─╯ │
-    3.20  ┤ ╭╯ │╭─╮ ╭╯╰╯  ╰╯╰╯     ╰╯╰╮  │   │
-    0.00  ┼─╯  ╰╯ ╰─╯                 ╰──╯   ╰
+    6.40  ┤  ╭─╮     │││  ││││     │││   ╭─╯ ╰
+    3.20  ┤ ╭╯ │╭─╮ ╭╯╰╯  ╰╯╰╯     ╰╯╰╮  │
+    0.00  ┼─╯  ╰╯ ╰─╯                 ╰──╯
 
-    Chart last updated - Fri Sep 16 00:00:36 2022 UTC
+    Chart last updated - Fri Sep 16 23:59:36 2022 UTC
     
 ```
