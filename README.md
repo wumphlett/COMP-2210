@@ -4,7 +4,7 @@ Fundamentals of Computing II / Intro to Data Structures and Algorithms
 
 ```
 
-    Total Views per Day from 2022-08-12 to 2022-10-06
+    Total Views per Day from 2022-08-12 to 2022-10-07
 
     Repository Views
    58.00  ┼
@@ -23,8 +23,8 @@ Fundamentals of Computing II / Intro to Data Structures and Algorithms
    10.88  ┤          ╭╮│  │╭╮│  ╰╯ │╭╮     │ │ │  │     │││╰╮│ │
     7.25  ┤  ╭╮      │││  ││││     │││    ╭╯ ╰─╯  ╰╮    │││ ││ ╰╮
     3.62  ┤ ╭╯╰╮╭─╮ ╭╯╰╯  ╰╯╰╯     ╰╯╰╮  ╭╯        ╰╮╭──╯╰╯ ╰╯  │
-    0.00  ┼─╯  ╰╯ ╰─╯                 ╰──╯          ╰╯          ╰─
+    0.00  ┼─╯  ╰╯ ╰─╯                 ╰──╯          ╰╯          ╰──
 
-    Chart last updated - Thu Oct  6 00:02:19 2022 UTC
+    Chart last updated - Fri Oct  7 00:47:25 2022 UTC
     
 ```
